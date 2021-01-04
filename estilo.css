@@ -1,0 +1,256 @@
+* { margin: 0; padding: 0; }
+
+
+
+#fondoindex {
+        -webkit-filter: blur(7px); /* Safari 6.0 - 9.0 */
+        filter: blur(7px);
+      }
+
+#cardindex{
+    font-weight: bold;
+    border: none; 
+    color: white;
+    background-image: url("img/ver.jpg");
+    
+}
+
+#logoymodal{
+  
+  display: inline-block; 
+   
+}
+
+#navenlaces{
+   justify-content: center; 
+    margin-top: -20px;
+}
+
+#logo{
+    margin-left: 40px;
+    justify-content: flex-start;
+}
+
+#navenlacesmodal{
+  justify-content: flex-end; 
+   
+}
+
+
+#zoomin{
+    margin-right: 40px;
+    
+}
+  
+ #zoomin:hover {
+    transform: scale(1.1); 
+    text-decoration: none;
+    
+}
+#enlaces{
+    color: coral; 
+    font-weight: bold;
+}
+
+
+  #decks{
+    width: 95%;
+    height: auto;
+    margin-left: 40px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    justify-content: center; 
+    
+  }
+
+  #titulogema{
+    font-size: medium;
+  }
+
+  #carrusel{
+    margin-left: 80px;
+    width: 88%;
+    height: auto;
+    margin-bottom: 10px;
+    justify-content: center; 
+    
+  }
+
+a{
+    color: coral;
+    text-decoration-line: none;
+
+}
+
+a:hover{
+  text-decoration-line:none;
+}
+
+#buscarimput {
+  border-color:coral;
+  color: coral; 
+  background-color: white;
+  
+
+  }
+
+#navbarSupportedContent{
+  justify-content: flex-end;
+}
+
+#botoningresar{
+
+  color: coral;
+  border-color: coral;
+  margin-right: 20px;
+  padding-bottom:10px ;
+  
+  
+}
+
+#botoningresar:hover{
+  background-color: coral;
+  color: white;
+
+}
+
+#entrarmodal {
+  font-size: medium;
+  color: coral;
+  font-weight: bold;
+  border-color:coral;
+  background-color: white;
+  padding-bottom:10px ;
+}
+
+#entrarmodal:hover{
+  background-color:coral;
+  color:white;
+}
+
+#entrarmodalreg {
+  font-size: medium;
+  color: coral;
+  font-weight: bold;
+  border-color:coral;
+  background-color: white;
+  padding-bottom:10px ;
+}
+
+#entrarmodalreg:hover{
+  background-color:coral;
+  color:white;
+}
+
+#entrarmodalup {
+  font-size: medium;
+  color: coral;
+  font-weight: bold;
+  border-color:coral;
+  background-color: white;
+  padding-bottom:10px ;
+}
+
+#entrarmodalup:hover{
+  background-color:coral;
+  color:white;
+}
+
+#entrarmodaleli {
+  font-size: medium;
+  color: coral;
+  font-weight: bold;
+  border-color:coral;
+  background-color: white;
+  padding-bottom:10px ;
+}
+
+#entrarmodaleli:hover{
+  background-color:coral;
+  color:white;
+}
+
+#divadministrador{
+
+justify-content: flex-end;  
+  
+}
+
+#divadministrador{
+
+  justify-content: flex-end; 
+  
+}
+
+#divingresar{
+
+  justify-content: flex-end; 
+  
+}
+
+#administrador{
+
+  
+  padding-bottom:10px ;
+  justify-content: flex-end;
+  
+}
+  
+#navenlacesmodal{
+  justify-content: flex-end; 
+   
+}
+
+#formulario{
+  justify-content: center;
+  padding:20px;
+  margin-bottom: 20px;
+  margin-top: 15px;
+  margin-left: 250px;
+}
+
+#small{
+  font-size: smaller;
+  color: coral;
+  padding-bottom: 2px;
+
+}
+
+#small:hover{
+  text-decoration: none;
+  color: coral;
+  
+
+}
+
+#registro{
+  font-size: medium;
+  color: coral;
+  font-weight: bold;
+  border-color:coral;
+  background-color: white;
+  padding-bottom:10px ;
+  text-decoration-line:none;
+  justify-content: flex-end;
+}
+
+#registro:hover{
+  background-color:coral;
+  color:white;
+  text-decoration-line:none;
+}
+
+
+#botonregistrar{
+
+  color: coral;
+  border: 1px;
+  border-radius: 60%;
+  border-color: coral;
+  margin-right: 20px;
+  padding-bottom:10px ;
+  padding-top:10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  
+}
