@@ -104,20 +104,14 @@ CREATE TABLE `usuarios` (
 
 INSERT INTO `usuarios` (`nombre`, `apellido`, `email`, `telefono`, `password`, `direccion`) VALUES
 ('Agustina', 'Ricardes', 'agusricard@hotmail.com', 47925722, '123456', 'Moldes 2532'),
-('Cristina', 'Ventura', 'arqcristinaventura@yahoo.com.ar', 45421882, '123456', 'Jaramillo 3204\r\n5°A'),
-('Jorge', 'Jesus', 'arqjj@gmail.com', 43528692, '123456', 'Conde 2490'),
-('Eleonora', 'Acosta', 'eleo@yahoo.com.ar', 43247653, '123456', 'Talcahuano 546 7°A'),
-('Federico', 'Zunino', 'fedezv@gmail.com', 45421882, '123456', 'Jaramillo 3204'),
+('Jorge', 'Jesus', 'qjj@gmail.com', 43528692, '123456', 'Conde 2490'),
 ('Julian', 'Gomez', 'gomez@yahoo.com.ar', 43532123, '123456', 'Nuñez 3236'),
 ('Juana', 'Tesoriero', 'juanitat@yahoo.com', 47012828, '123456', 'Migueletes 1126'),
 ('Maria', 'Lopez', 'maria@yahoo.com', 47925586, '123456', 'Montevideo 580'),
 ('Mauricio', 'Salomon', 'mauri@hotmail.com', 45672839, '123456', 'Montevideo 580 1°C'),
 ('Marta', 'Villar', 'mavillar@hotmail.com', 42536772, '123456', 'Zabala 2036 8D'),
-('Natalia', 'Caneva', 'naticaneva@yahoo.com', 45432828, '123456', 'Estomba 3850'),
-('Coni', 'Zunino', 'nebulaz@gmail.com', 1122699600, '123456', 'Monteagudo 1890'),
-('Pablo', 'Denegri', 'padenegri@gmail.com', 47025353, '123456', 'Plaza 1170'),
+('Pablo', 'Negri', 'padenegri@gmail.com', 47025353, '123456', 'Plaza 1170'),
 ('Pablo', 'Martinez', 'pamarti@gmail.com', 43265312, '123456', 'Zapiola 1127'),
-('Francisco', 'Peñaloza', 'pancho77@gmail.com', 47034546, '123456', 'Darregueyra 470'),
 ('Veronica', 'Telles', 'verte@gmail.com', 43582535, '123456', 'Caseros 1538');
 
 --
