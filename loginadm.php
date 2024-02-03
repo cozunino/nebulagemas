@@ -12,9 +12,9 @@ echo "<center><h4>Bienvenido al sistema</h4>";
 /*$consultasql = "SELECT * FROM adm WHERE email='$email' AND password='$password'";*/
 /*$consultasql = "SELECT * FROM adm WHERE email='{$_POST['email']}' AND password='{$_POST['password']}'";*/
 
-$query = mysqli_query($conexion,$consultasql);
+/*$query = mysqli_query($conexion,$consultasql);*/
 
-$num_filas = mysqli_num_rows($query);
+/*$num_filas = mysqli_num_rows($query);*/
 
 /*if($num_filas){*/
     echo 'Bienvenido administrador!!!';
